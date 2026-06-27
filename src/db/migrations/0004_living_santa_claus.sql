@@ -1,1 +1,0 @@
-ALTER TABLE `questoes` ADD `tipo` text;
